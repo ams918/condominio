@@ -4,7 +4,7 @@ Condomínio On-line
 Aplicativo web para gestão e melhoria na comunicação de informações envolvidas em um condomínio residencial. Controle de solicitações, reclamações, mural eletrônico, reserva de ambientes e controle de acesso ao condomínio de moradores, visitantes, funcionários e
 prestadores de serviço..
 
-A aplicação desenvovida como trabalho de conclusao do curso de especializaçao em desnvolvimeno para web com interfaces ricas da UFG. A aplicação foi implantanda no Openshift, a plataforma de cloud computing (PaaS) da Red Hat.
+A aplicação desenvovida como trabalho de conclusao do curso de especializaçao em desenvolvimento para web com interfaces ricas da UFG. A aplicação foi implantanda no Openshift, a plataforma de cloud computing (PaaS) da Red Hat.
 
 Você pode acessar a aplicação no Openshift através da url: http://
 
